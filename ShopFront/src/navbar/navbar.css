@@ -1,0 +1,32 @@
+.navbar{
+    display:flex;
+    align-items: baseline;
+   background-color: rgba(236, 240, 241, 0.986);
+
+    /* justify-content: space-between; */
+}
+.aDD{
+   background-color: rgba(236, 240, 241, 0.986);
+   border:none;
+   
+}
+.color{
+    background-color: rgb(28, 212, 212);
+    border:none;
+}
+.colornew{
+    background-color:#40d323e7;
+    border:none;
+}
+.colorrem{
+    background-color: #ff6961;
+    border:none;
+}
+.colorup{
+    background-color: #fffc61;
+    border:none;
+}
+
+.aDD:hover{
+    background-color:  rgba(28, 212, 212, 0.479);
+}
